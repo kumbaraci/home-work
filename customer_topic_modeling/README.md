@@ -6,4 +6,4 @@ In the scope of this work, respectively, C_v score 0.3401, 0.6612; topic diversi
 
 ![classifier evaluation](eva0.png)
 ___
-![topic modeling evaluation](eva0.png)
+![topic modeling evaluation](eva1.png)
