@@ -4,6 +4,6 @@ First, the data received from the system was passed through the processes of cle
 
 In the scope of this work, respectively, C_v score 0.3401, 0.6612; topic diversity score 0.8000, 0.7600; Jaccard Distance 0.9369, 0.9181; inversed rank-biased overlap value average 0.9364, 0.9220 values were reached with LDA and BERTopic.
 
-![classifier evaluation](kumbaraci/ml-works/customer_topic_modeling/eva0.png)
+![classifier evaluation](customer_topic_modeling/eva0.png)
 ___
-![topic modeling evaluation](kumbaraci/ml-works/customer_topic_modeling/eva1.png)
+![topic modeling evaluation](customer_topic_modeling/eva0.png)
